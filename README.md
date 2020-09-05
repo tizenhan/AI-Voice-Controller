@@ -1,3 +1,5 @@
+[![Watch the video](https://img.youtube.com/vi/ysBXt7bN7rI/hqdefault.jpg)](https://youtu.be/ysBXt7bN7rI)
+
 ## 팀명 및 팀원
 * 팀명: SINO TECH
 * 팀원 1: 한민수(기획/설계/회로/소프트웨어개발/디버깅/발표)
