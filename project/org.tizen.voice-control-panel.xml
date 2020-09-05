@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns="http://tizen.org/ns/packages" package="org.tizen.voice-control-panel" version="0.1" install-location="internal-only" api-version="5.0">
+        <label>Voice control panel</label>
+        <author email="tizenhan@gmail.com" href="www.samsung.com">Minsu Han</author>
+        <description>Voice control panel Application</description>
+        <ui-application appid="org.tizen.voice-control-panel" exec="voice-control-panel" nodisplay="false" multiple="false" type="capp" taskmanage="false">
+            <label>Voice control panel</label>
+       </ui-application>
+        <privileges>
+            <privilege>http://tizen.org/privilege/recorder</privilege>
+            <privilege>http://tizen.org/privilege/appmanager.launch</privilege>
+            <privilege>http://tizen.org/privilege/inputgenerator</privilege>
+            <privilege>http://tizen.org/privilege/window.priority.set</privilege>
+            <privilege>http://tizen.org/privilege/voicecontrol.manager</privilege>
+            <privilege>http://tizen.org/privilege/peripheralio</privilege>
+        </privileges>
+</manifest>

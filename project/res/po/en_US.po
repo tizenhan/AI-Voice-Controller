@@ -1,0 +1,113 @@
+msgid "IDS_BALL_ON"
+msgstr "공 줘"
+
+msgid "IDS_BALL_OFF"
+msgstr "공 주지마"
+
+msgid "IDS_CONVEYER_ON"
+msgstr "시작해"
+
+msgid "IDS_CONVEYER_OFF"
+msgstr "정지해"
+
+msgid "IDS_NOTIFICATION"
+msgstr "Notification"
+
+msgid "IDS_APPLICATION"
+msgstr "Application"
+
+msgid "IDS_WIFI"
+msgstr "Wifi"
+
+msgid "IDS_BLUETOOTH"
+msgstr "Bluetooth"
+
+msgid "IDS_AIRPLANE_MODE"
+msgstr "Airplane mode"
+
+msgid "IDS_GPS"
+msgstr "GPS"
+
+msgid "IDS_SOUND"
+msgstr "Sound"
+
+msgid "IDS_MORE"
+msgstr "More"
+
+msgid "IDS_PREVIOUS"
+msgstr "Previous"
+
+msgid "IDS_LISTENING"
+msgstr "Listening..."
+
+msgid "IDS_PROCESSING"
+msgstr "Processing..."
+
+msgid "IDS_SORRY"
+msgstr "Sorry, I don't understand"
+
+msgid "IDS_RESTART"
+msgstr "Touch here to restart"
+
+msgid "IDS_HINT_HOMESCREEN"
+msgstr "Go to Homescreen"
+
+msgid "IDS_HINT_NOTIFICATION"
+msgstr "Open Norification panel"
+
+msgid "IDS_HINT_INTERNET"
+msgstr "Launch Internet application"
+
+msgid "IDS_HINT_APPLICATION"
+msgstr "Go to App tray"
+
+msgid "IDS_HINT_TASK_MANAGER"
+msgstr "Launch Task manager"
+
+msgid "IDS_HINT_SETTINGS"
+msgstr "Go to Settings command menu"
+
+msgid "IDS_HINT_HELP"
+msgstr "Show/Hide command menu"
+
+msgid "IDS_HINT_CLOSE"
+msgstr "Close voice control"
+
+msgid "IDS_HINT_WIFI"
+msgstr "Turn on/off Wifi"
+
+msgid "IDS_HINT_BLUETOOTH"
+msgstr "Turn on/off Bluetooth"
+
+msgid "IDS_HINT_AIRPLANE_MODE"
+msgstr "Turn on/off Airplane mode"
+
+msgid "IDS_HINT_GPS"
+msgstr "Turn on/off GPS"
+
+msgid "IDS_HINT_SOUND"
+msgstr "Turn on/off Sound"
+
+msgid "IDS_HINT_MORE"
+msgstr "Launch Setting application"
+
+msgid "IDS_HINT_PREVIOUS"
+msgstr "Go to Previous command menu"
+
+msgid "IDS_HINT_SCROLL_UP"
+msgstr "Move scroll to up"
+
+msgid "IDS_HINT_SCROLL_DOWN"
+msgstr "Move scroll to down"
+
+msgid "IDS_HINT_SWIPE_FORWARD"
+msgstr "Swipe forward the screen"
+
+msgid "IDS_HINT_SWIPE_BACKWARD"
+msgstr "Swipe Backward the screen"
+
+msgid "IDS_HINT_BACK"
+msgstr "Touch back button"
+
+msgid "IDS_HINT_POWER_OFF"
+msgstr "Turn off the device"
